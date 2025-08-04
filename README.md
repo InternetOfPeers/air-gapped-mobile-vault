@@ -2,6 +2,8 @@
 
 A secure, offline mobile application for storing Ethereum private keys and signing transactions. This app is designed to work completely offline with no network access, ensuring maximum security for your private keys.
 
+You can use the [Ethereum Transaction Tools](https://github.com/InternetOfPeers/ethereum-transaction-tools) repo to generate and read transactions in QR code format.
+
 ## Features
 
 - 🔐 **Secure Key Storage**: Uses device keystore/keychain for maximum security
